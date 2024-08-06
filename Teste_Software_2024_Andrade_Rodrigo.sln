@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste_Software_2024_Andrade_Rodrigo", "Teste_Software_2024_Andrade_Rodrigo\Teste_Software_2024_Andrade_Rodrigo.csproj", "{2452C3C0-CBCF-49AC-AA27-5223454D6B38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste_Software_2024_Andrade_Rodrigo.Tests", "Teste_Software_2024_Andrade_Rodrigo.Tests\Teste_Software_2024_Andrade_Rodrigo.Tests.csproj", "{12426CC4-0EC7-4571-ABCA-910872CB35DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2452C3C0-CBCF-49AC-AA27-5223454D6B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2452C3C0-CBCF-49AC-AA27-5223454D6B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2452C3C0-CBCF-49AC-AA27-5223454D6B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2452C3C0-CBCF-49AC-AA27-5223454D6B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12426CC4-0EC7-4571-ABCA-910872CB35DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12426CC4-0EC7-4571-ABCA-910872CB35DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12426CC4-0EC7-4571-ABCA-910872CB35DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12426CC4-0EC7-4571-ABCA-910872CB35DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B98D710-9E43-43B3-91EE-4D898D659BB3}
+	EndGlobalSection
+EndGlobal
